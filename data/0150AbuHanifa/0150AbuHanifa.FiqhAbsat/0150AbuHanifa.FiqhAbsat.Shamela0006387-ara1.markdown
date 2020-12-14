@@ -3,9 +3,9 @@
 
 #META# 000.SortField	:: Shamela_0006387
 #META# 000.BookURI	:: #0150.AbuHanifa.Multiple
-#META# 010.AuthorAKA	:: NODATA
+#META# 010.AuthorAKA	:: أبو حنيفة
 #META# 010.AuthorNAME	:: ينسب لأبي حنيفة النعمان بن ثابت بن زوطي بن ماه (المتوفى: 150هـ)
-#META# 011.AuthorBORN	:: NOTGIVEN
+#META# 011.AuthorBORN	:: 80
 #META# 011.AuthorDIED	:: 150
 #META# 019.AuthorDIED	:: NODATA
 #META# 020.BookTITLE	:: الفقه الأكبر (مطبوع مع الشرح الميسر على الفقهين الأبسط والأكبر المنسوبين لأبي حنيفة تأليف محمد بن عبد الرحمن الخميس)
