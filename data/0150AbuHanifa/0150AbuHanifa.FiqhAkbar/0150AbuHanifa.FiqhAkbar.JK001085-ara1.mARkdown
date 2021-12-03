@@ -238,28 +238,4 @@ PageV01P070
 # وخروج الدجال ويأجوج ومآجوج وطلوع الشمس من مغربها ونزول عيسى عليه
 ~~السلام من السماء وسائر علامات يوم القيامة على ما وردت به الأخبار الصحيحة
 ~~حق كائن والله تعالى يهدي من يشاء إلى صراط مستقيم.
-PageV01P072لى الفقهين الأبسط والأكبر المنسوبين لأبي حنيفة
-#META# 020.BookTITLESUB	:: NODATA
-#META# 021.BookSUBJ	:: الكتب الجامعة في العقائد :: الكتب الجامعة لمسائل العقيدة :: كتب العقائد والملل
-#META# 022.BookVOLS	:: 1
-#META# 025.BookLANG	:: NODATA
-#META# 029.BookTITLEalt	:: الفقه الأكبر
-#META# 030.LibURI	:: JK_001085
-#META# 030.LibURIextra	:: NODATA
-#META# 031.LibREADONLINE	:: NODATA
-#META# 031.LibURL	:: NODATA
-#META# 031.LibURLFILE	:: NODATA
-#META# 031.LibURLextra	:: NODATA
-#META# 040.EdALL	:: NODATA
-#META# 040.EdEDITOR	:: NODATA
-#META# 041.EdNUMBER	:: الأولى
-#META# 041.EdNumber	:: NODATA
-#META# 043.EdPUBLISHER	:: مكتبة الفرقان
-#META# 044.EdPLACE	:: الإمارات العربية
-#META# 045.EdYEAR	:: 1419هـ - 1999م
-#META# 049.EdISBN	:: NODATA
-#META# 049.EdPAGES	:: NODATA
-#META# 049.EdPHYSICAL	:: NODATA
-#META# 049.EdVOLUME	:: NODATA
-#META# 090.RecMISC	:: NODATA
-#META# 999.MiscINFO	:: NODATA ms6
+PageV01P072
