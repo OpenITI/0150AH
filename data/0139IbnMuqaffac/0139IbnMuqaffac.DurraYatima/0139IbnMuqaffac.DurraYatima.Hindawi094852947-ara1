@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "0142IbnMuqaffac.DurraYatima.Hindawi94852947",
-    "BookCats": "literature",
-    "BookID": "94852947",
-    "BookTitle": "الدرة اليتيمة",
-    "AuthorID": "91362851",
-    "AuthorNam": "عبد الله بن المقفع",
-    "EditorID": "79369353",
-    "EditorNam": "شكيب أرسلان",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 0142IbnMuqaffac.DurraYatima.Hindawi94852947
+#META# Tags: literature
+#META# ID: 94852947
+#META# Title: الدرة اليتيمة
+#META# AuthorID: 91362851
+#META# Author: عبد الله بن المقفع
+#META# EditorID: 79369353
+#META# Editor: شكيب أرسلان
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 
